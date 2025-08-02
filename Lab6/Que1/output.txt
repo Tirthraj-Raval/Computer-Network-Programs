@@ -1,0 +1,2 @@
+This is sample file specially created for the UDP file transfer and recieving mechanism for client and server
+Tirthraj Raval
